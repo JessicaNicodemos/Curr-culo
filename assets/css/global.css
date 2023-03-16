@@ -19,7 +19,7 @@ a:hover {
 }
 
 main {
-    background-image: url(/assets/img/background.jpg);
+    background-image: url(../img/background.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     margin: 1rem;
@@ -30,7 +30,7 @@ main {
 
 /* main::before{
     content: "";
-    background-image: url(/assets/img/background.jpg);
+    background-image: url(../img/background.jpg);
     background-repeat:no-repeat;
     background-size:cover;
     display: inline-block;
